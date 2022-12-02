@@ -30,7 +30,7 @@
 - Logical shift
   - Bits shifted from the end of the register are lost and zeros are shifted in at the opposite end of the register
   - The positive binary integer is multiplied or divided according to the shift performed
-  - The most significant bit(s) or least significant bit(s) are lost, when 1s is shifted out from left, overflow occurs and the value become incorrect
+  - The most significant bit(s) or least significant bit(s) are lost, when 1s is shifted out, the value become incorrect
 
 - Twos Complement
   - conversion between positive/negative denary and twos complement binary
